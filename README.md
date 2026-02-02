@@ -47,4 +47,4 @@ membros_grupos: Vínculo entre usuários e grupos.
 ## 👥 Equipe
 * **Danilo Diniz** - [(https://github.com/dinizdanilo)]
 * **Eythor do Nascimento** - [(https://github.com/EythordoNascimento)]
-* **Kauã Ambrosio** - []
+* **Kauã Ambrosio** - [(https://github.com/kauaambrosio)]
